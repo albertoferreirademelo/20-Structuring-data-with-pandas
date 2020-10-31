@@ -1,1 +1,2 @@
-# 20-Structuring-data-with-pandas
+# Structuring data with pandas
+I helped another group from my university with their master thesis. They were doing some changes on an excel file manually, which would take weeks for them to be done with, then my supervisor reached out to me and asked me if I could help them. I probably saved them some weeks of work, since my structuring program took me only 30 minutes. Here is the small program I did to structure the data the way they wanted to.
